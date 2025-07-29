@@ -28,6 +28,7 @@ APPLICATION_VERSIONS = {
     b'\x018965B4209000\x00\x00\x00\x00': b'\x01!!!!!!!!!!!!!!!!', # 2021 RAV4 Prime
     b'\x018965B4233100\x00\x00\x00\x00': b'\x01!!!!!!!!!!!!!!!!', # 2023 RAV4 Prime
     b'\x018965B4509100\x00\x00\x00\x00': b'\x01!!!!!!!!!!!!!!!!', # 2021 Sienna
+    b'\x018965B4221000\x00\x00\x00\x00': b'\x01!!!!!!!!!!!!!!!!', # 2021 Wildlander (RAV4 Prime in China)
 }
 
 KEY_STRUCT_SIZE = 0x20
